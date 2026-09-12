@@ -1,0 +1,17 @@
+{
+  "name": "stars777-homepage-clone",
+  "version": "1.0.0",
+  "description": "High-fidelity clone of Stars777.org homepage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "stars777",
+    "homepage",
+    "clone"
+  ],
+  "author": "",
+  "license": "ISC"
+}
