@@ -208,34 +208,40 @@
     },
     "socialLinks": [
       {
+        "id": "telegram",
+        "platform": "Telegram",
+        "url": "http://t.me/stars777_prediction",
+        "iconUrl": "https://cdn.simpleicons.org/telegram/white"
+      },
+      {
         "id": "facebook",
         "platform": "Facebook",
-        "url": "https://facebook.com",
+        "url": "https://www.facebook.com/togetherweplaystars777/",
         "iconUrl": "https://cdn.simpleicons.org/facebook/white"
       },
       {
         "id": "whatsapp",
         "platform": "WhatsApp",
-        "url": "https://wa.me/",
+        "url": "https://whatsapp.com/channel/0029VbChs6vBPzjWgCyi5c1y",
         "iconUrl": "https://cdn.simpleicons.org/whatsapp/white"
       },
       {
         "id": "twitter",
         "platform": "Twitter",
-        "url": "https://x.com/Stars777_VIP",
+        "url": "https://x.com/Stars777India",
         "iconUrl": "https://cdn.simpleicons.org/x/white"
+      },
+      {
+        "id": "pinterest",
+        "platform": "Pinterest",
+        "url": "https://in.pinterest.com/stars777india",
+        "iconUrl": "https://cdn.simpleicons.org/pinterest/white"
       },
       {
         "id": "instagram",
         "platform": "Instagram",
         "url": "https://www.instagram.com/stars777_vip/",
         "iconUrl": "https://cdn.simpleicons.org/instagram/white"
-      },
-      {
-        "id": "telegram",
-        "platform": "Telegram",
-        "url": "https://t.me/stars777_prediction",
-        "iconUrl": "https://cdn.simpleicons.org/telegram/white"
       },
       {
         "id": "youtube",
