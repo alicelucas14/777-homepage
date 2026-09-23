@@ -214,6 +214,12 @@
         "iconUrl": "https://cdn.simpleicons.org/facebook/white"
       },
       {
+        "id": "whatsapp",
+        "platform": "WhatsApp",
+        "url": "https://wa.me/",
+        "iconUrl": "https://cdn.simpleicons.org/whatsapp/white"
+      },
+      {
         "id": "twitter",
         "platform": "Twitter",
         "url": "https://x.com/Stars777_VIP",
